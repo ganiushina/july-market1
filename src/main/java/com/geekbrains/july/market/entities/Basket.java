@@ -9,7 +9,7 @@ import java.util.List;
 
 @Data
 @NoArgsConstructor
-@Component
+
 public class Basket {
 
     List<Product> products;
